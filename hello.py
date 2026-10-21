@@ -1,2 +1,4 @@
 print("hello")
-print("Henry")
+
+for i in range(10):
+    print("Henry")
